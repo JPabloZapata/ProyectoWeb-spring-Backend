@@ -1,0 +1,21 @@
+insert into productos(nombre, descripcion, image, create_at, precio) values('Helado', 'sabor a queso', 'https://www.ken-foods.com/wp-content/uploads/2018/07/el-origen-del-helado-e1530726550260.jpg', '2021-05-02', 20000);
+insert into productos(nombre, descripcion, image, create_at, precio) values('pam Bimbo', 'delicioso', 'https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3478673-1000-1000/7705326074454.jpg?v=637158272509500000', '2021-05-02', 20000);
+insert into productos(nombre, descripcion, image, create_at, precio) values('mantequilla', 'suavesita', 'https://jumbocolombiafood.vteximg.com.br/arquivos/ids/190814-1000-1000/7702028021465.jpg?v=636162210015200000', '2021-05-02', 20000);
+insert into productos(nombre, descripcion, image, create_at, precio) values('arepas', 'con sabor a campo', 'https://www.mercadoslpineda.co/3213-thickbox_default/arepa-la-sonsonena-x-5-und.jpg', '2021-05-02', 20000);
+insert into productos(nombre, descripcion, image,create_at, precio) values('arroz', 'del bueno', 'https://supertiendascomunal.com/1873-large_default/arroz-diana-10-libras.jpg', '2021-05-02', 20000);
+
+insert into clientes(nombre, apellido, email, create_at) values('juan pablo', 'zapata', 'juan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('sebas', 'zapata', 'ssan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('sara', 'mesa', 'dfuan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('mercedes', 'ferdandez', 'dvcn@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('chalo', 'perez', 'vcxan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('pedro pablo', 'ruiz', 'vcxan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('miguel', 'morales', 'dsan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('sara', 'lopera', 'ssan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('mery', 'mena', 'aaaan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('rosa', 'rosa', 'lggn@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('harold', 'solis', 'pdoan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('marlon', 'morsquera', 'jdgdgdn@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('manuela', 'marquez', 'dddan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('oliva', 'meneces', 'aavvvuan@tuy.exe', '2021-05-02');
+insert into clientes(nombre, apellido, email, create_at) values('paulo', 'potro', 'rrrran@tuy.exe', '2021-05-02');
